@@ -29,9 +29,9 @@ A Machine Learning system for ECG classification with multiple models (LSTM, CNN
 My latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Listing my Latest Blog Posts on my GitHub Profile](https://fabriciojm.github.io/posts/20260629-blog-posts-github/)
 - [I Write When I Think I Can&#39;t Think](https://fabriciojm.github.io/posts/20260625-writing-saves/)
 - [The Commonplace Repo or &lpar;Show How You&rpar; Build in Public](https://fabriciojm.github.io/posts/20260624-commonplace-repo/)
 - [Container Networking by Hand](https://fabriciojm.github.io/posts/20260623-container-networking-by-hand/)
 - [Dev Contaniners and SSH](https://fabriciojm.github.io/posts/20260622-devcontainers-ssh/)
-- [Two Linux Security Tips](https://fabriciojm.github.io/posts/20260527-linux-tips/)
 <!-- BLOG-POST-LIST:END -->
