@@ -1,6 +1,6 @@
 # Fabricio Jiménez Morales
 
-DevOps Engineer, Data Scientist and former Particle Physicist (like CERN's LHC). I work with Linux, Containers, Kubernetes and learn about Cloud-native technologies. I code with Python and am interested in solving problems with AI and Machine Learning.
+Platform Engineer and former Particle Physicist (worked at CERN's LHC). I work with Linux, Containers, Kubernetes and learn about Cloud-native technologies. I code with Python and am interested in solving problems with AI and Machine Learning.
 
 
 # Projects
