@@ -24,6 +24,10 @@ A Machine Learning system for ECG classification with multiple models (LSTM, CNN
 - The demo: https://fabriciojm-hadt-app.hf.space/
 - The code repo: https://github.com/fabriciojm/hadt
 
+## Writing
+
+My latest blog posts:
+
 <!-- BLOG-POST-LIST:START -->
 - [I Write When I Think I Can&#39;t Think](https://fabriciojm.github.io/posts/20260625-writing-saves/)
 - [The Commonplace Repo or &lpar;Show How You&rpar; Build in Public](https://fabriciojm.github.io/posts/20260624-commonplace-repo/)
