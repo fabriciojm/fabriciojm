@@ -5,9 +5,17 @@ Platform Engineer and former Particle Physicist (worked at CERN's LHC). I work w
 
 # Projects
 
+## LAF - Local AI Factory
+
+Built a local AI inference platform with a FastAPI job API and a separate image generation service, supporting asynchronous job creation, status tracking, background execution, and result retrieval. Containerized both services and published Docker images to GitHub Container Registry, with local Stable Diffusion inference running through stable-diffusion.cpp.
+
+- Demo: https://laf.fabriciojm.com
+- Repos: https://github.com/fabriciojm/laf-api, https://github.com/fabriciojm/laf-inference
+
+
 ## Homelab
 
-Designing and deploying an immutable, declarative infrastructure platform using GitOps and secure secret management. It's a bare-metal Kubernetes homelab running two nodes (Arch, Ubuntu).
+Designing and deploying an immutable, declarative infrastructure platform using GitOps and secure secret management. It's a bare-metal Kubernetes homelab running three nodes (Arch, Ubuntu).
 There, I have deployed multiple personal apps, along with a monitoring stack using Prometheus and Graphana.
 
 - Repository: https://github.com/fabriciojm/homelab
@@ -18,15 +26,9 @@ I collect code snippets as I learn in my daily routine. From Linux and shell bas
 
 - Repository: https://github.com/fabriciojm/lab
 
-## Heart Arrhythmia Detection Tools (hadt)
-
-A Machine Learning system for ECG classification with multiple models (LSTM, CNN, XGBoost, DTW), achieving ~97% accuracy. Includes a public API and deployed web demo.
-- The demo: https://fabriciojm-hadt-app.hf.space/
-- The code repo: https://github.com/fabriciojm/hadt
-
 ## Writing
 
-My latest blog posts:
+You can check out what I'm up to on [my webpage](https://fabriciojm.com). My latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [I Write When I Think I Can&#39;t Think](https://fabriciojm.github.io/posts/20260625-writing-saves/)
