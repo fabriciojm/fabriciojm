@@ -22,7 +22,7 @@ There, I have deployed multiple personal apps, along with a monitoring stack usi
 
 ## Continuous Learning Repo (Lab)
 
-I collect code snippets as I learn in my daily routine. From Linux and shell basics to more advanced topics.
+I collect code snippets as I learn.
 
 - Repository: https://github.com/fabriciojm/lab
 
